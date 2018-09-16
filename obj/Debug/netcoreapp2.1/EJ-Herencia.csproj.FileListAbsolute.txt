@@ -1,0 +1,11 @@
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\bin\Debug\netcoreapp2.1\EJ-Herencia.deps.json
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\bin\Debug\netcoreapp2.1\EJ-Herencia.runtimeconfig.json
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\bin\Debug\netcoreapp2.1\EJ-Herencia.runtimeconfig.dev.json
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\bin\Debug\netcoreapp2.1\EJ-Herencia.dll
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\bin\Debug\netcoreapp2.1\EJ-Herencia.pdb
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\obj\Debug\netcoreapp2.1\EJ-Herencia.csprojAssemblyReference.cache
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\obj\Debug\netcoreapp2.1\EJ-Herencia.csproj.CoreCompileInputs.cache
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\obj\Debug\netcoreapp2.1\EJ-Herencia.AssemblyInfoInputs.cache
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\obj\Debug\netcoreapp2.1\EJ-Herencia.AssemblyInfo.cs
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\obj\Debug\netcoreapp2.1\EJ-Herencia.dll
+c:\Users\usuario\Desktop\FACULTAD\CURSO_PROG_2\EJ-Herencia\obj\Debug\netcoreapp2.1\EJ-Herencia.pdb
